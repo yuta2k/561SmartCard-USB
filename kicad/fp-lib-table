@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "561SmartCard-USB")(type "KiCad")(uri "${KIPRJMOD}/561SmartCard-USB.pretty")(options "")(descr ""))
+)
